@@ -1,0 +1,16 @@
+{
+  "name": "teste-desenvolvedor-junior",
+  "version": "1.0.0",
+  "description": "Rick and Morty's characters page",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:mathues/teste-desenvolvedor-junior.git",
+  "author": "Matheus <mathues@email.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vue": "^2.6.10"
+  }
+}
